@@ -17,3 +17,5 @@ Libraries included are :
     sklearn.naive_bayes,
     nltk.tokenize,
     sklearn.linear_model
+
+Algorithms : Naive Bayes, Logistic Regression
